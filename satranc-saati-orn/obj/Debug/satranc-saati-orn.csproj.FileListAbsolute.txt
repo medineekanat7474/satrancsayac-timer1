@@ -1,0 +1,10 @@
+C:\Users\PC0\Desktop\satranc-saati-orn\satranc-saati-orn\bin\Debug\satranc-saati-orn.exe.config
+C:\Users\PC0\Desktop\satranc-saati-orn\satranc-saati-orn\bin\Debug\satranc-saati-orn.exe
+C:\Users\PC0\Desktop\satranc-saati-orn\satranc-saati-orn\bin\Debug\satranc-saati-orn.pdb
+C:\Users\PC0\Desktop\satranc-saati-orn\satranc-saati-orn\obj\Debug\satranc-saati-orn.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\satranc-saati-orn\satranc-saati-orn\obj\Debug\satranc_saati_orn.Form1.resources
+C:\Users\PC0\Desktop\satranc-saati-orn\satranc-saati-orn\obj\Debug\satranc_saati_orn.Properties.Resources.resources
+C:\Users\PC0\Desktop\satranc-saati-orn\satranc-saati-orn\obj\Debug\satranc-saati-orn.csproj.GenerateResource.cache
+C:\Users\PC0\Desktop\satranc-saati-orn\satranc-saati-orn\obj\Debug\satranc-saati-orn.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\satranc-saati-orn\satranc-saati-orn\obj\Debug\satranc-saati-orn.exe
+C:\Users\PC0\Desktop\satranc-saati-orn\satranc-saati-orn\obj\Debug\satranc-saati-orn.pdb
